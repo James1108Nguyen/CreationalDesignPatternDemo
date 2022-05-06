@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbstractFactoryMethod",
+    "\\FactoryMethod",
+    "\\SingletonPattern"
+  ],
+  "SelectedNode": "\\SingletonPattern\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

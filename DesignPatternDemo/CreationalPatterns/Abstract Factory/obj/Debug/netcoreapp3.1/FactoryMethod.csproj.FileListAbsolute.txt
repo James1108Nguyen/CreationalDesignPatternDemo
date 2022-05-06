@@ -1,0 +1,14 @@
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\jj\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

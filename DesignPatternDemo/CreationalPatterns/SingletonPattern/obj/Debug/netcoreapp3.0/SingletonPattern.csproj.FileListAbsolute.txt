@@ -1,0 +1,42 @@
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.exe
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.deps.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.dev.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.dll
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.pdb
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.dll
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.pdb
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.genruntimeconfig.cache
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.exe
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.deps.json
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.json
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.dev.json
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.dll
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.pdb
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.dll
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.pdb
+C:\Users\nguye\Desktop\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.genruntimeconfig.cache
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.exe
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.deps.json
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.json
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.dev.json
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.dll
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.pdb
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.AssemblyReference.cache
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfoInputs.cache
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfo.cs
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.dll
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.pdb
+D:\Record .net\Demo\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.genruntimeconfig.cache

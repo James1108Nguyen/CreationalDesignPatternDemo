@@ -1,0 +1,13 @@
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.deps.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.dev.json
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.pdb
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfo.cs
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.pdb
+C:\Users\nguye\Downloads\design-pattern-tutorial-master\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.genruntimeconfig.cache

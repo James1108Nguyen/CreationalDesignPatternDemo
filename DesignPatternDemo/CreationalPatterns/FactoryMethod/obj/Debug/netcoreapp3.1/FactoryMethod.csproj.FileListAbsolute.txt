@@ -1,0 +1,14 @@
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\Duc Trong\Desktop\design-pattern-tutorial-master\DesignPatternDemo\CreationalPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
